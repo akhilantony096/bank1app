@@ -1,0 +1,25 @@
+.warp1{
+    background-color: rgb(228, 227, 227);
+    }
+    .one{
+        display: flex;
+        justify-content: center;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .two{
+        background-color: rgb(217, 245, 161) !important;
+        color: white !important;
+        
+        
+    }
+    .three{
+        width: 124.92px ;
+    }
+    .four{
+        background-color: rgb(155, 165, 253) !important;
+        color: white !important;
+        
+    }
+    
+    
